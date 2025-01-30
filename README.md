@@ -86,4 +86,4 @@ Additionally, the system is integrated with a Flask-based backend, where it send
 
 Sushant Khattar
 
-For any queries, feel free to reach out via [LinkedIn](https://www.linekdin.com/in/sushantkhattar).
+For any queries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sushantkhattar).
